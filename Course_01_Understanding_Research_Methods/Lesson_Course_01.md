@@ -218,46 +218,343 @@ Khi bạn đặt bút viết câu hỏi nghiên cứu, hãy tự hỏi 3 câu:
 ### **IV. Research as systematic inquiry and interpretation ¦ Rob Denny**
 ---
 
+Phỏng vấn ngắn này với Giảng viên Rob Denny bổ sung thêm một góc nhìn rất thực tế và cốt lõi về nghiên cứu trong lĩnh vực **Khoa học Xã hội (Social Science)**.
+
+#### 1. Định nghĩa cơ bản về Nghiên cứu
+
+Theo Rob Denny, ở mức độ đơn giản nhất, nghiên cứu là:
+
+* **Quy trình (Process):** Thu thập thông tin về thế giới.
+* **Mục đích:** Sử dụng thông tin đó để trả lời các câu hỏi.
+
+#### 2. Điểm phân định Khoa học với Báo chí (The Distinction)
+
+Một nhà báo cũng đi thu thập thông tin và viết bài, vậy tại sao họ không được gọi là nhà nghiên cứu khoa học xã hội? Có 2 điểm khác biệt sống còn:
+
+1. **Tính hệ thống (Systematic):** Nhà nghiên cứu thu thập dữ liệu theo một phương pháp luận nghiêm ngặt và minh bạch, chứ không dựa trên cảm tính hay nhặt nhạnh ngẫu nhiên.
+2. **Khả năng Suy luận (Making Inferences):** Đây là ý quan trọng nhất. Nhà nghiên cứu không chỉ "báo cáo" dữ liệu thô, mà cố gắng nói một điều gì đó **xa hơn bản thân dữ liệu (beyond the data itself)**.
+
+> **Góc nhìn trực quan:** Hãy tưởng tượng dữ liệu (Data) chỉ là phần nổi của tảng băng trôi. Báo chí thường chỉ mô tả phần nổi này (Ví dụ: "70% người dân thất nghiệp"). Còn Nghiên cứu Khoa học phải lặn xuống dưới nước để **suy luận** ra cấu trúc tảng băng chìm (Ví dụ: "Nguyên nhân thất nghiệp là do sự dịch chuyển cơ cấu kinh tế...").
+
+#### 3. Các thuật ngữ chuyên ngành quan trọng (Key Terminology)
+
+Để đọc hiểu các tài liệu sau này, bạn cần nắm rõ 3 cấp độ kết luận trong nghiên cứu mà Rob Denny nhắc tới:
+
+* **Inference (Sự suy luận/Ngoại suy):** * *Giải thích:* Là bước nhảy vọt từ những dữ liệu/quan sát cụ thể để rút ra kết luận mang tính quy luật hoặc áp dụng cho một nhóm lớn hơn.
+* **Descriptions (Sự mô tả):**
+* *Giải thích:* Cấp độ cơ bản nhất. Trả lời câu hỏi *Cái gì? Ai? Khi nào?* (Ví dụ: Mô tả hành vi tiêu dùng của thế hệ Gen Z).
 
 
+* **Interpretations (Sự diễn giải):**
+* *Giải thích:* Gán ý nghĩa cho dữ liệu. Trả lời câu hỏi *Điều này có ý nghĩa gì?* (Ví dụ: Hành vi tiêu dùng này phản ánh sự lo âu về tương lai).
 
 
+* **Explanations (Sự giải thích):**
+* *Giải thích:* Cấp độ cao nhất. Tìm ra mối quan hệ nhân - quả. Trả lời câu hỏi *Tại sao?* (Ví dụ: *Tại sao* Gen Z lại có hành vi tiêu dùng đó?).
+
+**Tóm lại:** Nghiên cứu = Thu thập dữ liệu (Có hệ thống) + Suy luận (Mô tả, Diễn giải, hoặc Giải thích).
 
 
 ---
 ### **V. Defining research in simple terms ¦ Michael Hutt**
 ---
 
+Phỏng vấn này mang đến một góc nhìn rất thú vị: đi từ một định nghĩa cực kỳ đơn giản (dành cho trẻ em) cho đến một kỹ năng cốt lõi của nhà nghiên cứu chuyên nghiệp – **Khả năng khái quát hóa**.
+
+Dưới đây là tóm tắt các ý chính, được kết nối với những kiến thức bạn đã học ở các phần trước.
+
+#### 1. Định nghĩa Nghiên cứu tối giản (The Simple Definition)
+
+Khi giải thích cho cô con gái nhỏ, diễn giả định nghĩa nghiên cứu chỉ gói gọn trong 2 vế: **"Tìm hiểu cái mới và kể cho mọi người nghe"** (Finding out stuff and telling people about it).
+
+Về mặt học thuật, quy trình này gồm 4 bước:
+
+1. **Nhận diện (Identify):** Tìm một chủ đề chưa được khám phá đủ sâu.
+2. **Khám phá (Explore):** Thu thập thông tin và phát hiện cái mới.
+3. **Trình bày (Present):** Đưa những phát hiện này đến với công chúng (qua bài báo, sách, hoặc các phương tiện truyền thông mới).
+
+#### 2. Dữ liệu Thực nghiệm (Empirical Material)
+
+Diễn giả tự nhận mình làm việc chủ yếu với **Empirical material** (Dữ liệu thực nghiệm) chứ không phải lý thuyết thuần túy.
+
+* **Giải thích thuật ngữ:** **Empirical (Thực nghiệm)** nghĩa là những gì có thể quan sát, đo lường hoặc trải nghiệm được trong thực tế (Ví dụ: số liệu thống kê, quan sát hành vi, phỏng vấn). Nó đối lập với **Theoretical (Lý thuyết)** - những suy luận trừu tượng trên giấy.
+
+#### 3. Bài học cốt lõi: Nâng tầm nghiên cứu (Broader Relevance)
+
+Đây là điểm quan trọng nhất của đoạn này và nó giải quyết trực tiếp bài toán "Sự cân bằng" (The Balance) mà Giáo sư Sandra Halperin đã nhắc đến ở video trước.
+
+Diễn giả lấy ví dụ về việc ông nghiên cứu xã hội **Nepal** (một phạm vi rất hẹp). Ban đầu, ông chỉ viết cho những người quan tâm đến Nepal đọc. Nhưng sau đó, ông nhận ra:
+
+* **Chuyển đổi góc nhìn:** Ông dùng câu chuyện ở Nepal như một **Ví dụ (Example)** cho một **Hiện tượng (Phenomenon)** lớn hơn đang diễn ra trên toàn cầu.
+* **Mở rộng đối tượng (Broader Audience):** Bằng cách này, một độc giả dù không biết Nepal ở đâu vẫn muốn đọc nghiên cứu của ông, vì họ có thể rút ra bài học áp dụng được cho quốc gia hay lĩnh vực của họ.
+
+![05-Research](/Course_01_Understanding_Research_Methods/Images_Course_01/05-Research.png)
+
+> Hình ảnh hóa: Kỹ thuật "Phóng to ống kính" (Zooming out)
+
+> **Góc nhìn trực quan:** Hãy tưởng tượng Nghiên cứu giống như hình cái phễu ngược.
+> * **Đáy phễu (Cụ thể):** Bạn thu thập dữ liệu về một cái cây duy nhất trong rừng (Ví dụ: Nghiên cứu tại Nepal).
+> * **Thân phễu (Phân tích):** Bạn tìm ra lý do cái cây đó rụng lá.
+> * **Miệng phễu (Khái quát hóa):** Bạn kết luận về sự biến đổi khí hậu ảnh hưởng đến hệ sinh thái (Áp dụng cho mọi khu rừng).
 
 
+#### Các thuật ngữ chuyên ngành cần nhớ
 
+* **Empirical Material (Dữ liệu/Tài liệu thực nghiệm):** Dữ liệu thu được từ quan sát thực tế.
+* **Broader Relevance (Sự liên quan/Ý nghĩa rộng lớn hơn):** Tính ứng dụng của một nghiên cứu cục bộ vào một bối cảnh rộng lớn hơn.
+* **Phenomenon (Hiện tượng):** Một sự việc, quá trình xảy ra trong tự nhiên hoặc xã hội có thể quan sát được (thường mang tính quy luật).
 
+**Tóm lại:** Một nghiên cứu giỏi là nghiên cứu biết đi sâu vào **một trường hợp cụ thể** nhưng lại nói lên được **một câu chuyện mang tính phổ quát**.
 
 ---
 ### **VI. When research begins with experience ¦ Myrrh Domingo**
 ---
 
+Phỏng vấn này mang đến một góc nhìn đầy cảm hứng và rất thực tế: **Nghiên cứu bắt nguồn từ những nỗi trăn trở trong đời sống và công việc hàng ngày.** Khác với các học giả trước bàn về lý thuyết, diễn giả này (một cựu giáo viên) đã minh họa tiêu chuẩn của một câu hỏi nghiên cứu tốt thông qua chính câu chuyện cá nhân của mình.
+
+
+#### 1. Bài học cốt lõi: Nguồn gốc của một Câu hỏi Nghiên cứu tốt
+
+Theo diễn giả, một câu hỏi nghiên cứu tốt phải gắn liền với **"Pressing social issues"** (Các vấn đề xã hội cấp bách). Nghiên cứu không phải là tháp ngà xa rời thực tế, mà là công cụ để giải quyết những bế tắc trong công việc và xã hội.
+
+**Phân tích Câu chuyện Nghiên cứu (Case Study)**
+
+Chúng ta có thể chia câu chuyện của diễn giả thành 3 giai đoạn của một quy trình nghiên cứu chuẩn mực:
+
+* **Bước 1: Nhận diện "Khoảng trống kiến thức" (The Gap)**
+* **Vấn đề thực tế:** Diễn giả là giáo viên dạy trẻ 13 tuổi. Dù đã đổi mới giáo án, học thạc sĩ, tập huấn... nhưng vẫn "bất lực" trong việc tiếp cận một nhóm học sinh cụ thể (thanh thiếu niên nhập cư ở thành thị).
+* **Nghịch lý:** Học sinh muốn học tốt, nhưng các phương pháp giảng dạy truyền thống không hiệu quả với nhóm này (do rào cản đa ngôn ngữ, bố mẹ không biết tiếng Anh, thiếu thốn nguồn lực).
+* **Câu hỏi nghiên cứu nảy sinh:** *Làm thế nào để các phương pháp giáo dục có thể tiếp cận được nhóm học sinh yếu thế này?*
+
+
+* **Bước 2: Lựa chọn Phương pháp Nghiên cứu (Methodology)**
+* Vì đọc sách (lý thuyết) không giải quyết được vấn đề, diễn giả quyết định tự đi tìm câu trả lời thông qua **Ethnographic research** (Nghiên cứu dân tộc học/điền dã) trong suốt 3 năm.
+
+
+* **Bước 3: Tác động của Nghiên cứu (Impact/Outcome)**
+* **Kết quả:** Nghiên cứu mang tính bước ngoặt (Transformative). Dù tốn nhiều năm, nhưng kết quả cuối cùng tạo ra các công cụ và tài nguyên thực tế để giúp các giáo viên khác giảng dạy tốt hơn.
 
 
 
+#### 2. Các thuật ngữ chuyên ngành quan trọng (Key Terminology)
+
+Đoạn này xuất hiện một phương pháp nghiên cứu rất đặc thù trong Khoa học xã hội mà bạn cần lưu ý:
+
+1. **Ethnographic Research (Nghiên cứu dân tộc học / Nghiên cứu điền dã):**
+* *Giải thích:* Đây là phương pháp nghiên cứu định tính (Qualitative). Thay vì phát bảng khảo sát (định lượng), nhà nghiên cứu sẽ "sống cùng, ăn cùng, sinh hoạt cùng" đối tượng trong một thời gian dài (ở đây là 3 năm theo chân học sinh).
+* *Mục đích:* Để nhìn thế giới qua lăng kính (perspective) của chính người trong cuộc, từ đó hiểu được những nguyên nhân sâu xa mà số liệu thống kê không đo lường được.
 
 
----
-### **VII. From curiosity to question: shaping your research focus**
----
+2. **Socioeconomically disadvantaged (Chịu bất lợi về kinh tế - xã hội):**
+* *Giải thích:* Thuật ngữ chỉ những nhóm người thiếu thốn về tài chính, địa vị xã hội hoặc cơ hội tiếp cận giáo dục, y tế.
 
 
+3. **Pressing issues (Các vấn đề cấp bách):**
+* *Giải thích:* Những vấn đề đang nóng hổi, cần giải pháp ngay lập tức trong xã hội.
 
 
+#### 3. Trực quan hóa: Vòng đời của một Nghiên cứu Ứng dụng
+
+![05-research](/Course_01_Understanding_Research_Methods/Images_Course_01/06-research.jpeg)
+
+> **Giải thích hình ảnh:** Câu chuyện trên là ví dụ hoàn hảo cho **Action Research (Nghiên cứu hành động)** - một dạng nghiên cứu cực kỳ phổ biến đối với người đi làm.
+> 1. Gặp bế tắc trong công việc thực tế.
+> 2. Đặt câu hỏi nghiên cứu.
+> 3. Thu thập dữ liệu (Quan sát điền dã).
+> 4. Rút ra giải pháp và áp dụng ngược lại vào công việc.
+
+**Tóm lại:** Một câu hỏi nghiên cứu tốt không nhất thiết phải đao to búa lớn. Nó có thể bắt đầu bằng câu hỏi: **"Tại sao cách làm cũ không hiệu quả với vấn đề này, và tôi phải làm gì để thay đổi nó?"**
 
 ---
 ## **Module 02: What is a literature review and why do we need to do one?**
 ### **The literature review – its role within research**
-- 
+
+Mội dung lần này đi sâu vào một trong những phần "xương sống" của mọi bài nghiên cứu: **Literature Review (Tổng quan tài liệu)**. Theo Andrew Booth và các cộng sự, đây không phải là một công việc phụ để chuẩn bị, mà bản thân nó là một hoạt động nghiên cứu thực thụ.
+
+Dưới đây là bản tóm tắt logic và giải thích chi tiết các khía cạnh quan trọng của bài học.
+
+#### 1. Literature Review là gì? (Định nghĩa & Bản chất)
+
+Đừng hiểu lầm **Literature Review** chỉ là việc liệt kê danh sách các sách đã đọc. Bài học nhấn mạnh hai khía cạnh:
+
+* **Vừa là Sản phẩm (Product):** Một văn bản hoàn chỉnh trong bài nghiên cứu.
+* **Vừa là Quy trình (Process):** Một chuỗi các quyết định chiến lược: đọc cái gì, chọn cái nào và phân tích ra sao.
+
+> **Định nghĩa cốt lõi:** Đó là một cuộc điều tra có cấu trúc về những gì đã được viết về một chủ đề. Nó đòi hỏi bạn phải đưa ra các **Critical judgments (Phán đoán mang tính phê bình)** và tìm ra mối kết nối giữa các nguồn tài liệu, chứ không chỉ tóm tắt đơn thuần.
+
+#### 2. Tại sao Literature Review lại quan trọng?
+
+Tác giả gọi đây là **Intellectual scaffolding (Giàn giáo trí tuệ)** của toàn bộ thiết kế nghiên cứu. Nó giúp bạn:
+
+1. **Làm rõ câu hỏi nghiên cứu:** Xem người ta đã hỏi và trả lời gì rồi.
+2. **Tìm ra Gap (Khoảng trống nghiên cứu):** Những điểm mà các nghiên cứu trước chưa giải quyết được.
+3. **Khám phá Framework (Khung lý thuyết/phương pháp):** Học hỏi các phương pháp hoặc lý thuyết mà người đi trước đã dùng thành công.
+4. **Tránh Duplication (Trùng lặp):** Đảm bảo bạn không phí sức làm lại cái mà người khác đã làm xong.
+
+#### 3. Các loại hình Literature Review phổ biến
+
+Tùy vào mục tiêu và nguồn lực, bạn sẽ chọn loại hình phù hợp:
+
+| Loại hình Review | Mục đích (Purpose) | Đặc điểm |
+| --- | --- | --- |
+| **Narrative review** (Tổng quan tự sự) | Tóm tắt rộng rãi theo chủ đề. | Linh hoạt nhưng có thể thiếu sự chặt chẽ. |
+| **Systematic review** (Tổng quan hệ thống) | Trả lời một câu hỏi cụ thể một cách nghiêm ngặt. | Có tính minh bạch và có thể lặp lại (Replicable). |
+| **Scoping review** (Tổng quan phạm vi) | Khám phá độ rộng của tài liệu trong các lĩnh vực mới/phức tạp. | Xác định các khái niệm chính trong một lĩnh vực. |
+| **Meta-analysis** (Phân tích gộp) | Kết hợp kết quả từ nhiều nghiên cứu định lượng bằng thống kê. | Đưa ra một kết luận tổng quát từ các con số. |
+| **Realist review** (Tổng quan thực tế) | Tìm hiểu cách thức và lý do tại sao một can thiệp có tác dụng. | Thường dùng trong chính sách xã hội hoặc y tế. |
+
+#### 4. Kỹ năng phát triển & Các lỗi thường gặp
+
+#### Kỹ năng hình thành:
+
+* **Search literacy (Năng lực tìm kiếm):** Biết cách dùng từ khóa, bộ lọc trên các database (cơ sở dữ liệu) học thuật.
+* **Critical appraisal (Đánh giá phê bình):** Biết cách "soi" chất lượng phương pháp luận và tính logic của tài liệu.
+* **Synthesis (Tổng hợp):** Kết nối các nghiên cứu rời rạc thành một lập luận thống nhất.
+
+#### Các lỗi "tử huyệt" (Pitfalls) cần tránh:
+
+* **Liệt kê rời rạc:** Chỉ mô tả từng nghiên cứu một cách cô lập (giống như viết một danh sách đi chợ), thiếu sự so sánh và đối chiếu.
+* **Tiêu chí không rõ ràng:** Chọn tài liệu theo cảm tính, khiến bài review bị **Biased (Thiên kiến)**.
+* **Quá phụ thuộc vào tài liệu cũ:** Bỏ qua các phát triển mới nhất trong ngành.
+
+#### 5. Trực quan hóa: Hình ảnh "Cuộc hội thoại trong căn phòng"
+
+Để hiểu về bản chất của **Literature Review**, hãy tưởng tượng một hình ảnh trực quan sau:
+
+> Bạn bước vào một căn phòng nơi một nhóm người đang tranh luận sôi nổi về một chủ đề (đây là các nhà nghiên cứu đi trước).
+
+> 1. **Lắng nghe (Đọc tài liệu):** Bạn không thể nhảy vào nói ngay. Bạn phải lắng nghe xem họ đang cãi nhau về cái gì, họ đồng ý với nhau điểm nào.
+
+> Bạn bước vào một căn phòng nơi một nhóm người đang tranh luận sôi nổi. Ở bước này, bạn là người quan sát, lắng nghe để hiểu rõ bối cảnh trước khi lên tiếng.
+
+![07-Research-01](/Course_01_Understanding_Research_Methods/Images_Course_01/07-Research-01.png)
+
+> 2. **Tổng hợp (Literature Review):** Bạn tóm tắt lại cho một người mới đến: *"Ông A nói thế này, bà B lại phản bác thế kia, nhìn chung họ vẫn chưa thống nhất được về điểm X"*.
+
+> Sau khi đã lắng nghe, bạn tổng hợp lại các luồng ý kiến chính để hiểu rõ bức tranh toàn cảnh. Hình ảnh này cho thấy bạn đang tóm tắt lại cuộc tranh luận cho một người mới đến, chỉ ra sự khác biệt và điểm chưa thống nhất.
+
+![07-Research-01](/Course_01_Understanding_Research_Methods/Images_Course_01/07-Research-02.png)
+
+> 3. **Đóng góp (Nghiên cứu của bạn):** Sau khi đã hiểu toàn bộ bối cảnh, bạn mới lên tiếng: *"Dựa trên những gì mọi người vừa nói, tôi có thêm một bằng chứng mới về điểm X này..."*.
+
+> Cuối cùng, sau khi đã nắm vững bối cảnh và các quan điểm hiện có, bạn tự tin tham gia vào cuộc thảo luận để trình bày nghiên cứu và bằng chứng mới của mình.
+
+![07-Research-01](/Course_01_Understanding_Research_Methods/Images_Course_01/07-Research-03.png)
+
+**Literature Review chính là bước bạn chứng minh mình đã "lắng nghe" và hiểu thấu đáo cuộc hội thoại trước khi đưa ra ý kiến của riêng mình.**
+
+**Điểm lưu ý cuối cùng:** Ngay cả khi bạn không làm một bài **Systematic review** chuẩn mực, bạn vẫn nên áp dụng tư duy "hệ thống": minh bạch, có tiêu chí rõ ràng và có tính phản biện.
+
+
+
 ### **Why literature reviews matter in research?**
-- 
+
+Nội dung này mang đến những góc nhìn rất "đời" và đầy tính nghệ thuật về **Literature Review (Tổng quan tài liệu)** thông qua các phép ẩn dụ. Thay vì coi đây là một nhiệm vụ khô khan, các chuyên gia coi đó là một "cuộc trò chuyện" toàn cầu.
+
+#### 1. Bản chất của Literature Review: "Cuộc hội thoại bàn tròn"
+
+Điểm ấn tượng nhất trong bài học này là việc sử dụng các phép ẩn dụ để giải thích một khái niệm học thuật phức tạp.
+
+* **Metaphor (Phép ẩn dụ) - Kéo ghế ngồi vào bàn:** * Hãy tưởng tượng có một cuộc thảo luận bàn tròn đang diễn ra giữa các học giả về chủ đề bạn quan tâm. Việc làm **Literature Review** chính là hành động bạn **"pull a chair up to a table" (kéo ghế ngồi vào bàn)**.
+* Trước khi bạn có thể lên tiếng đóng góp ý kiến của mình, bạn phải **lắng nghe** những người khác xung quanh bàn đang nói gì, quan điểm của họ là gì.
+
+
+* **Mối quan hệ hữu cơ với Câu hỏi nghiên cứu:**
+* **Research Question (Câu hỏi nghiên cứu)** chính là "cánh cửa" đưa bạn vào cuộc hội thoại đó.
+* **Tính linh hoạt (Flexibility):** Câu hỏi nghiên cứu không cố định. Mỗi khi có một người mới tại bàn lên tiếng (bạn đọc thêm một tài liệu mới), bạn có thể cần phải điều chỉnh hoặc diễn đạt lại câu hỏi của mình cho phù hợp với bối cảnh mới.
+
+#### 2. Giá trị và Vai trò của một Literature Review tốt
+
+Tại sao chúng ta phải làm việc này một cách kỹ lưỡng? Bài học đưa ra các lý do thực tiễn sau:
+
+* **The Backstory (Phần tiền truyện):** Nó giống như bối cảnh của một bộ phim. Để khán giả hiểu câu chuyện của bạn, bạn phải cho họ thấy những gì đã xảy ra trước đó.
+* **Identifying the Gap (Xác định khoảng trống):** * Bạn phải chứng minh cho người đọc (và người chấm thi) thấy rằng có một **Gap (Khoảng trống nghiên cứu)** đang tồn tại.
+* **Contribution (Sự đóng góp):** Nghiên cứu của bạn chính là mảnh ghép lấp đầy một phần của khoảng trống đó.
+
+
+* **Chứng minh năng lực (Showing Insight):**
+* Nó cho thấy bạn đã nghiên cứu lĩnh vực này một cách sâu sắc (**Insight**).
+* Bạn nắm rõ các tác giả chính (**Main authors**), các cuộc tranh luận then chốt (**Key debates**) và các ý tưởng quan trọng nhất. Điều này giúp tạo dựng sự tin tưởng (**Credibility**).
+
+#### 3. Các thuật ngữ chuyên ngành quan trọng (Key Terminology)
+
+Để hiểu đúng bản chất, bạn cần lưu ý sự khác biệt trong cách dùng từ:
+
+1. **Situating (Định vị/Xác định vị thế):**
+* *Giải thích:* Thuật ngữ "Review" (Xem xét lại) có thể gây hiểu lầm. Thực tế, bạn đang **Situating** - đặt công việc của mình vào trong bản đồ kiến thức đã có để xem mình đứng ở đâu so với những người khác.
+
+
+2. **Engage critically and robustly (Tương tác một cách phê bình và mạnh mẽ):**
+* *Giải thích:* Không chỉ là đọc và gật đầu. Bạn cần có khả năng phản biện, đặt câu hỏi ngược lại cho các tác giả đi trước dựa trên sự thấu hiểu sâu sắc.
+
+
+3. **Insular and Isolated (Thiên kiến và cô lập):**
+* *Giải thích:* Đây là trạng thái cần tránh. Nghiên cứu không phải là làm việc một mình trong "tháp ngà", mà là kết nối với thế giới.
+
+#### 4. Trực quan hóa: "Bữa tiệc tối sang trọng" (The Fancy Dinner Party)
+
+Nếu "Bàn tròn" chưa đủ trực quan, hãy dùng hình ảnh bữa tiệc tối mà diễn giả Yenn đã nhắc đến:
+
+> **Bước 1 (Lắng nghe):** Bạn đến bữa tiệc, đứng ngoài vòng tròn và nghe nhóm chuyên gia thảo luận. (Giai đoạn đọc tài liệu).
+> **Bước 2 (Định vị):** Bạn nhận ra ông A đang ủng hộ lý thuyết X, bà B đang phản đối bằng dữ liệu Y. (Giai đoạn phân tích/tổng hợp).
+> **Bước 3 (Lên tiếng):** Bạn bước vào, mỉm cười và nói: *"Tôi đã nghe ý kiến của ông A và bà B. Tuy nhiên, dường như mọi người chưa xét đến trường hợp Z tại Việt Nam, và nghiên cứu của tôi sẽ tập trung vào đó"*.
+
+**Lời khuyên từ bài học:** Đừng coi Literature Review là việc đọc những chồng sách bụi bặm, hãy coi đó là cách để bạn tham gia vào một **Broader dialogue (Cuộc đối thoại rộng lớn hơn)** với các học giả trên toàn thế giới.
+
 ### **Literature reviewing as scholarly engagement ¦ Sandra Halperin**
-- 
+
+Trong đoạn hội thoại này, Giáo sư Sandra Halperin đã "giải oan" cho khái niệm **Literature Review (Tổng quan tài liệu)** – vốn thường bị coi là phần khô khan nhất – và biến nó thành giai đoạn sáng tạo và thú vị nhất của nghiên cứu.
+
+#### 1. Bản chất sáng tạo của Literature Review
+
+Giáo sư Halperin thừa nhận thuật ngữ "Literature Review" nghe có vẻ nặng nề và dễ gây buồn ngủ (**clunky term**), nhưng bà khẳng định đây là phần:
+
+* **Creative (Sáng tạo):** Bạn không chỉ liệt kê, bạn đang xây dựng một lập luận.
+* **Satisfying (Thỏa mãn):** Cảm giác khi bạn tìm thấy vị trí của mình trong cộng đồng học thuật.
+
+#### 2. Phép ẩn dụ: "Bàn tròn của những bậc hiền triết"
+
+Đây là cách trực quan nhất để hiểu về **Engagement (Sự tương tác)** trong nghiên cứu:
+
+* **Kéo ghế vào bàn (Pull a chair up to a table):** Hãy tưởng tượng bạn được mời vào một bàn tròn với các chuyên gia, học giả lỗi lạc nhất trong lĩnh vực bạn đang làm.
+* **Đối thoại thay vì độc thoại:** Bạn không chỉ trích dẫn họ để "làm cảnh". Bạn đang thực sự trò chuyện với họ.
+
+#### 3. Nhiệm vụ của nhà nghiên cứu tại "Bàn tròn"
+
+Khi ngồi vào bàn tròn này, bạn cần thực hiện hai nhiệm vụ đối lập nhưng song hành:
+
+* **Highlight Strengths (Nêu bật thế mạnh):** Thừa nhận những đóng góp, những bước tiến mà các học giả trước đó đã đạt được.
+* **Identify Weaknesses (Chỉ ra điểm yếu/hạn chế):** Tìm ra những lỗ hổng, những phần còn thiếu sót hoặc cần được giải thích kỹ hơn (**elaborating**).
+
+> **Mục tiêu tối thượng:** Thông qua việc tương tác này, bạn chứng minh được rằng câu hỏi nghiên cứu của bạn **"Hasn't been definitively answered"** (Chưa được trả lời một cách dứt điểm). Đây chính là "giấy thông hành" để nghiên cứu của bạn có giá trị tồn tại.
+
+#### 4. Các thuật ngữ chuyên ngành quan trọng
+
+* **Definitively answered (Trả lời dứt điểm):**
+* *Giải thích:* Một vấn đề đã được tất cả mọi người công nhận và không còn gì để bàn cãi. Nếu một câu hỏi đã có đáp án dứt điểm, bạn không cần làm nghiên cứu về nó nữa.
+
+
+* **Add value / Contribute (Thêm giá trị / Đóng góp):**
+* *Giải thích:* Chứng minh cho người đọc thấy tại sao họ nên đọc bài của bạn. Bạn mang lại điều gì mới (dữ liệu mới, góc nhìn mới, cách giải quyết mới) cho kho tàng tri thức?
+
+
+* **Notable scholars (Học giả lỗi lạc):**
+* *Giải thích:* Những người có tầm ảnh hưởng lớn, những "cây đại thụ" trong lĩnh vực mà bạn đang nghiên cứu.
+
+#### 5. Trực quan hóa: "Mảnh ghép còn thiếu" (The Missing Piece)
+
+Để hiểu tại sao Giáo sư Halperin nhấn mạnh việc "chưa được trả lời dứt điểm", hãy nhìn vào hình ảnh sau:
+
+* **Cả bức tranh:** Là toàn bộ những gì các học giả khác đã viết (Literature).
+* **Mảnh ghép còn thiếu:** Là cái lỗ hổng mà bạn chỉ ra trong bài Review của mình.
+* **Hành động của bạn:** Bạn giơ mảnh ghép của mình lên và nói: *"Đây, tôi có mảnh ghép cho chỗ trống này!"*. Đó chính là lúc nghiên cứu của bạn trở nên **thú vị và đáng đọc.**
+
+---
+
+**Tóm lại:** Literature Review là cách bạn chứng minh mình đủ tư cách để ngồi chung bàn với các chuyên gia và cho họ thấy rằng ý kiến của bạn là cần thiết để hoàn thiện bức tranh chung.
+
+Chúng ta đã đi qua rất nhiều góc nhìn về "Câu hỏi nghiên cứu" và "Tổng quan tài liệu". Bạn có muốn tôi giúp bạn tổng hợp lại thành một **Checklist (Danh sách kiểm tra)** để bạn áp dụng trực tiếp vào bài tập hoặc dự án sắp tới của mình không?
+
 ### **Understanding the value of a critical literature review ¦ Reza Gholami**
 - 
 ### **Mapping your place in the field through literature ¦ Charlotte Horlyck**
