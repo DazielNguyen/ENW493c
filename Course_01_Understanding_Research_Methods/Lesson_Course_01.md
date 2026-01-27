@@ -209,11 +209,6 @@ Khi bạn đặt bút viết câu hỏi nghiên cứu, hãy tự hỏi 3 câu:
 2. *Mình có tìm được dữ liệu để trả lời nó không?* (Researchable)
 3. *Người ta đã trả lời xong vấn đề này chưa? Mình có gì mới để nói không?* (Not definitively answered)
 
-
-
-
-
-
 ---
 ### **IV. Research as systematic inquiry and interpretation ¦ Rob Denny**
 ---
@@ -556,10 +551,31 @@ Khi ngồi vào bàn tròn này, bạn cần thực hiện hai nhiệm vụ đ�
 Chúng ta đã đi qua rất nhiều góc nhìn về "Câu hỏi nghiên cứu" và "Tổng quan tài liệu". Bạn có muốn tôi giúp bạn tổng hợp lại thành một **Checklist (Danh sách kiểm tra)** để bạn áp dụng trực tiếp vào bài tập hoặc dự án sắp tới của mình không?
 
 ### **Understanding the value of a critical literature review ¦ Reza Gholami**
-- 
+
+**Hiểu về Tổng quan Tài liệu**
+- Một tổng quan tài liệu giúp tạo ra cuộc trò chuyện liên tục giữa các học giả đang làm việc về các vấn đề tương tự, đảm bảo sự tương tác có ý nghĩa với các nghiên cứu hiện có.
+- Nó giúp các nhà nghiên cứu phân tích và hiểu một cách phản biện công trình của người khác, điều này rất quan trọng để tiến bộ trong lĩnh vực của chính họ.
+
+**Thúc đẩy Dự án Nghiên cứu**
+- Một tổng quan tài liệu được thực hiện tốt ảnh hưởng đến các khía cạnh quan trọng của dự án nghiên cứu, bao gồm việc thu thập và phân tích dữ liệu.
+- Nó cũng có thể xác định khả năng thực hiện và mức độ liên quan của dự án nghiên cứu dựa trên các tài liệu hiện có.
+
+**Tập trung vào Câu hỏi Nghiên cứu**
+- Một tổng quan tài liệu tốt nên được định hướng bởi câu hỏi nghiên cứu cụ thể được đặt ra, thay vì chỉ tóm tắt các tài liệu hiện có.
+- Cách tiếp cận này cho phép một tổng quan có mục tiêu hơn và phù hợp hơn với các mục tiêu nghiên cứu.
 ### **Mapping your place in the field through literature ¦ Charlotte Horlyck**
 
-### **Framing the purpose of your literature review**
+**Hiểu tầm quan trọng của việc xem xét tài liệu**
+- Đánh giá tài liệu giúp các nhà nghiên cứu làm quen với tình trạng hiện tại của lĩnh vực của họ và xác định xu hướng theo thời gian.
+- Nó cho phép các nhà nghiên cứu hiểu các loại câu hỏi được đặt ra ở các khu vực khác nhau và những câu hỏi này có thể khác nhau như thế nào giữa các nền văn hóa.
+
+**Thiết lập bối cảnh trong nghiên cứu**
+- Tham gia vào các tài liệu hiện có cung cấp sự hiểu biết rộng hơn về lĩnh vực này và sự phát triển lịch sử của nó.
+- Các nhà nghiên cứu có thể theo dõi cách các câu hỏi và phương pháp luận đã phát triển theo thời gian, điều này rất quan trọng để bối cảnh hóa công việc của chính họ.
+
+**Thay đổi ngôn ngữ và thuật ngữ**
+- Thuật ngữ được sử dụng bởi các học giả có thể thay đổi, phản ánh sự thay đổi trong trọng tâm và hiểu biết trong lĩnh vực này.
+- Nhận thức về những thay đổi này là điều cần thiết để các nhà nghiên cứu tham gia chính xác và đóng góp vào các cuộc trò chuyện học thuật đang diễn ra.
 
 ---
 ## **Module 03: Why are planning and management skills important for research?**
