@@ -580,27 +580,138 @@ Chúng ta đã đi qua rất nhiều góc nhìn về "Câu hỏi nghiên cứu" 
 ---
 ## **Module 03: Why are planning and management skills important for research?**
 ### **The selection of a research approach**
-- 
+*Đọc tài liệu sẽ bao gồm những ý nhỏ ở dưới*
 ### **Why time management and flexibility matter in research?**
-- 
-### **Planning and soft skills: a survival kit for researchers ¦ Reza Gholami**
-- 
-### **Keeping all elements in sync: a strategic approach to research design ¦ Sandra Halperin**
-- 
+*Nội dung nhấn mạnh tầm quan trọng của việc quản lý thời gian hiệu quả và lập kế hoạch trong việc xây dựng đề cương nghiên cứu.*
 
+**Quản lý thời gian trong nghiên cứu**
+- Quản lý thời gian tốt là rất quan trọng để tiến hành nghiên cứu một cách có tổ chức.
+- Nghiên cứu thường không thể dự đoán được, đòi hỏi sự linh hoạt và đủ thời gian để thích ứng với những thay đổi.
+
+**Lập kế hoạch và dự phòng**
+- Nghiên cứu thường mất nhiều thời gian hơn dự kiến, vì vậy điều cần thiết là phải dành thêm thời gian vào kế hoạch của bạn.
+- Để dành chỗ cho các trường hợp bất ngờ giúp tránh tình trạng vội vã và căng thẳng vào phút cuối.
+
+**Phát triển kỹ năng**
+- Các nhà nghiên cứu mới vào nghề nên tích cực phát triển các kỹ năng quản lý và giao tiếp để nâng cao năng lực nghiên cứu của mình.
+
+- Tham dự các hội thảo hoặc lớp học có thể giúp đảm bảo rằng các kỹ năng thiết yếu được hiểu rõ và áp dụng hiệu quả.
+### **Planning and soft skills: a survival kit for researchers ¦ Reza Gholami**
+*Nội dung nhấn mạnh vai trò quan trọng của việc lập kế hoạch và quản lý thời gian trong việc thực hiện các dự án nghiên cứu thành công.*
+
+**Tầm quan trọng của việc lập kế hoạch và quản lý**
+- Lập kế hoạch hiệu quả là điều cần thiết do tính chất phức tạp và đa chiều của nghiên cứu, liên quan đến nhiều bên liên quan và những thách thức học thuật.
+
+- Lập kế hoạch kém có thể dẫn đến những vấn đề nghiêm trọng, bao gồm cả hậu quả về chuyên môn, đạo đức và tài chính.
+
+**Phát triển kỹ năng cho các nhà nghiên cứu**
+- Nhiều người lầm tưởng rằng họ sở hữu các kỹ năng quản lý và giao tiếp đầy đủ, nhưng sau đó mới nhận ra rằng họ thiếu những khả năng thiết yếu này.
+
+- Các nhà nghiên cứu mới vào nghề được khuyến khích chủ động tìm kiếm các khóa đào tạo về kỹ năng quản lý và giao tiếp để tránh học hỏi từ những sai lầm.
+
+### **Keeping all elements in sync: a strategic approach to research design ¦ Sandra Halperin**
+
+*Nội dung tập trung vào tầm quan trọng của quản lý thời gian trong việc thực hiện các dự án nghiên cứu.*
+
+**Quản lý thời gian trong nghiên cứu**
+- Quản lý thời gian hiệu quả là yếu tố then chốt cho sự thành công của một dự án nghiên cứu, ảnh hưởng đến kết quả tổng thể.
+- Các nhà nghiên cứu nên chia nhỏ dự án thành các yếu tố cơ bản, chẳng hạn như câu hỏi nghiên cứu, lý do, tổng quan tài liệu và phương pháp luận.
+
+**Các yếu tố chính của nghiên cứu**
+- Câu hỏi nghiên cứu phải được liên kết với các tài liệu hiện có để đảm bảo nó đóng góp vào các cuộc tranh luận và thảo luận đang diễn ra.
+- Cần phát triển một khung lý thuyết, phản ánh tổng quan tài liệu và hướng dẫn quá trình nghiên cứu.
+
+**Duy trì sự cân bằng**
+- Các nhà nghiên cứu cần giữ cho tất cả các yếu tố của dự án đồng bộ, điều chỉnh trọng tâm khi cần thiết để tránh hết thời gian hoặc sai lệch câu hỏi nghiên cứu với các tài liệu hiện có.
+
+- Một cách tiếp cận có hệ thống đối với nghiên cứu giúp đảm bảo rằng tất cả các thành phần được phát triển đồng thời, dẫn đến một sản phẩm cuối cùng mạch lạc.
 ### **Daily writing and drafting: why time management shapes quality ¦ Gina Heathcote**
+*Nội dung này thảo luận về tầm quan trọng của kỹ năng lập kế hoạch và quản lý trong việc tiến hành nghiên cứu hiệu quả.*
+
+**Lập kế hoạch và Viết**
+- Dành đủ thời gian cho việc soạn thảo là điều cần thiết để tạo ra bài viết chất lượng, bất kể ý tưởng cơ bản là gì.
+- Lập kế hoạch cho phép ý tưởng phát triển và củng cố lập luận tổng thể trong quá trình viết.
+
+**Thực hành Viết hàng ngày**
+
+- Những người viết giỏi thường thực hiện việc viết hàng ngày, điều này nhấn mạnh tầm quan trọng của việc quản lý thời gian.
+- Thực hành viết nhất quán giúp trau chuốt lập luận và nâng cao chất lượng kết quả nghiên cứu.
 
 ### **Juggling roles and research: the discipline of efficient time use ¦ Michael Hutt**
+*Nội dung tập trung vào tầm quan trọng của việc lập kế hoạch và quản lý nghiên cứu hiệu quả.*
 
-### **Which research approach is right for me?**
+**Quản lý thời gian trong nghiên cứu**
+- Quản lý thời gian hiệu quả rất quan trọng đối với các học giả khi phải cân bằng giữa công việc giảng dạy và hành chính.
+- Những người bận rộn thường phát triển kỹ năng ưu tiên tốt hơn, cho phép họ quản lý nghiên cứu cùng với các trách nhiệm khác.
 
+**Nhận biết những hạn chế của nghiên cứu**
+
+- Điều quan trọng là phải xác định khi nào một hướng nghiên cứu có thể không khả thi hoặc không hiệu quả.
+- Việc đặt ra các ưu tiên thực tế có thể ngăn ngừa lãng phí công sức vào những hướng nghiên cứu không hiệu quả.
+
+**Tích hợp nghiên cứu vào cuộc sống hàng ngày**
+
+- Nghiên cứu nên được xem là một phần của cuộc sống hàng ngày chứ không phải chỉ giới hạn trong những giờ cụ thể.
+- Việc tham gia nghiên cứu có thể diễn ra vào nhiều thời điểm khác nhau, phản ánh sự tích hợp của nó vào tính cách và thói quen của mỗi người.
 
 ---
 ## **Module 04: How do you know you have been a good researcher at the end of a project?**
 ### **Bringing it all together: what makes a research proposal meaningful**
-- 
+*Nội dung này tập trung vào việc suy ngẫm về quá trình nghiên cứu và đảm bảo các thực hành nghiên cứu hiệu quả khi kết thúc dự án.*
+
+**Suy ngẫm về sự hài lòng cá nhân**
+- Hãy xem xét sự hài lòng cá nhân của bạn khi hoàn thành khóa học và mối liên hệ của nó với việc học tập và sự tham gia nghiên cứu của bạn.
+
+- Suy ngẫm về kỹ năng quản lý thời gian và lập kế hoạch của bạn, những kỹ năng giúp nâng cao khả năng thực hiện nghiên cứu có ý nghĩa.
+
+**Trình bày nghiên cứu cho nhiều đối tượng**
+
+- Hãy suy nghĩ về cách truyền đạt câu hỏi nghiên cứu và đề xuất nghiên cứu của bạn một cách hiệu quả cho nhiều đối tượng khác nhau, bao gồm gia đình, bạn bè và đồng nghiệp.
+- Đánh giá khả năng thuyết phục người khác về giá trị nghiên cứu của bạn.
+
+**Tác động xã hội của nghiên cứu**
+
+- Nhận ra tiềm năng của nghiên cứu của bạn trong việc tạo ra những thay đổi có ý nghĩa trên thế giới, bất kể quy mô dự án của bạn lớn hay nhỏ.
+- Chuẩn bị trình bày những suy ngẫm và đề xuất nghiên cứu của bạn trong các diễn đàn thảo luận, góp phần vào cuộc đối thoại rộng hơn về nghiên cứu.
 ### **When your research still speaks to you ¦ Gina Heathcote**
-- 
+*Nội dung này thảo luận về cách đánh giá hiệu quả của bạn với tư cách là một nhà nghiên cứu khi kết thúc một dự án.*
+
+**Tự đánh giá nghiên cứu**
+- Một chỉ số quan trọng của một nhà nghiên cứu giỏi là khả năng đọc lại công trình của mình và vẫn thấy nó hấp dẫn và sâu sắc.
+
+- Nếu bạn có thể đánh giá cao những ý tưởng của chính mình mà không cảm thấy hối tiếc hay xấu hổ, điều đó cho thấy một quá trình nghiên cứu thành công.
+
+**Các chỉ số chính thức về thành công trong nghiên cứu**
+- Các thước đo thành công bổ sung bao gồm tần suất công trình của bạn được người khác trích dẫn và tác động của nó trong các lĩnh vực khác nhau.
+
+- Sự công nhận và trích dẫn trong bối cảnh học thuật hoặc chuyên nghiệp có thể đóng vai trò là sự xác nhận chính thức về chất lượng nghiên cứu của bạn.
 ### **What makes a research project worth doing ¦ Rob Denny**
-- 
+*Nội dung này thảo luận về các đặc điểm của một nghiên cứu tốt và các thước đo thành công trong việc thực hiện nghiên cứu.*
+
+**Hiểu về Nghiên cứu Tốt**
+- Một nghiên cứu tốt phải có tính hệ thống, nghĩa là nó tuân theo một phương pháp rõ ràng và có tổ chức.
+
+- Nó cần có lý lẽ và lập luận được xác định rõ ràng để giải thích phương pháp luận được sử dụng.
+
+**Sự Đầu Tư Cá Nhân vào Nghiên cứu**
+- Các nhà nghiên cứu nên cảm thấy tự hào về công việc của mình, thể hiện sự đầu tư và quan tâm cá nhân.
+
+- Nghiên cứu phải là điều mà nhà nghiên cứu tin tưởng, phản ánh cam kết của họ đối với chủ đề.
 ### **Ethics, design, and data that hold up ¦ Reza Gholami**
+*Nội dung này thảo luận về cách đánh giá hiệu quả của một nhà nghiên cứu sau khi hoàn thành một dự án.*
+
+**Những cân nhắc về đạo đức**
+- Một nhà nghiên cứu giỏi sẽ suy ngẫm về hành vi đạo đức của mình trong suốt quá trình nghiên cứu, đảm bảo rằng không có hành vi phi đạo đức nào liên quan.
+
+- Duy trì tính liêm chính về đạo đức là rất quan trọng đối với độ tin cậy của nghiên cứu.
+
+
+**Tính hợp lệ và độ tin cậy**
+- Các nhà nghiên cứu nên đánh giá tính hợp lệ và độ tin cậy của thiết kế nghiên cứu của họ, đảm bảo rằng nó phù hợp với mục đích của nghiên cứu.
+
+- Các phương pháp thu thập dữ liệu thích hợp, bao gồm cả phương pháp tam giác hóa, là rất cần thiết để hỗ trợ các phát hiện nghiên cứu.
+
+**Dữ liệu hỗ trợ cho các luận điểm**
+- Một dấu hiệu mạnh mẽ của một nghiên cứu tốt là khi dữ liệu thu thập được hỗ trợ mạnh mẽ cho các luận điểm hoặc lập luận được đưa ra.
+
+- Nghiên cứu nên đóng góp có ý nghĩa vào các đề xuất chính sách hoặc các cuộc thảo luận lý thuyết dựa trên dữ liệu thu thập được.
